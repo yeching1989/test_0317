@@ -9,3 +9,4 @@ six
 seven
 eight
 color 1 edit color
+color 2 edit color
