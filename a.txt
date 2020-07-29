@@ -3,3 +3,4 @@ second vim
 one
 two
 three
+four
